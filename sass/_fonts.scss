@@ -1,0 +1,29 @@
+@import "compass/css3/font-face";
+@include font-face('MinionProRegular',font-files('MinionProRegular.otf','MinionProRegular.ttf','MinionProRegular.svg','MinionProRegular.woff','MinionProRegular.woff2'),'MinionProRegular.eot');
+@include font-face('MinionProMedium',font-files('MinionProMedium.otf','MinionProMedium.ttf','MinionProMedium.svg','MinionProMedium.woff','MinionProMedium.woff2'),'MinionProMedium.eot');
+@include font-face('MinionProSemiBold',font-files('MinionProSemibold.otf','MinionProSemibold.ttf','MinionProSemibold.svg','MinionProSemibold.woff','MinionProSemibold.woff2'),'MinionProSemibold.eot');
+@include font-face('MinionProSemiBoldIt',font-files('MinionProSemiboldIt.otf','MinionProSemiboldIt.ttf','MinionProSemiboldIt.svg','MinionProSemiboldIt.woff','MinionProSemiboldIt.woff2'),'MinionProSemiboldIt.eot');
+@include font-face('futurabookc',font-files('futurabookc.otf','futurabookc.ttf','futurabookc.svg','futurabookc.woff','futurabookc.woff2'),'futurabookc.eot');
+
+//@extend .regular;
+.regular{
+  font-family: 'MinionProRegular';
+}
+.bold{
+  font-family: 'MinionProSemiBold';
+}
+b, strong{
+  @extend .bold;
+}
+.medium{
+  font-family: 'MinionProMedium';
+}
+.italic{
+  font-family: 'MinionProSemiBoldIt';
+}
+i{
+  @extend .italic;
+}
+.futura{
+  font-family: 'futurabookc';
+}

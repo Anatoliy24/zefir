@@ -1,0 +1,308 @@
+@import "compass/utilities/sprites";
+$sprites-spacing:2px;
+@import "sprites/*.png";
+@import "clients/*.png";
+@import "titles/*.png";
+
+// For sample
+//@include sprites-sprite(afy-logo);
+//@include clients-sprite(afy-logo);
+
+//.social.facebook{
+//  @include size(10px,10px);
+//  //@include sprites-sprite(afy-logo);
+//}
+//.social.facebook2{
+//  @include size(10px,10px);
+//  @include clients-sprite(afy-logo);
+// после @include идет название папки, потом тире и словоно sprite, в скобках пишет имя файла картинки
+//}
+
+//Icons
+.icon {
+
+}
+
+.title-section {
+  @include size(247px, 52px);
+
+  &.project {
+    @include sprites-sprite(project);
+  }
+  &.kitchen {
+    @include sprites-sprite(kitchen);
+  }
+  &.portfolio {
+    @include sprites-sprite(portfolio);
+  }
+  &.team {
+    @include sprites-sprite(team);
+  }
+  &.statistic {
+    @include size(251px, 56px);
+    @include sprites-sprite(statistic);
+  }
+  &.client {
+    @include sprites-sprite(client);
+  }
+  &.contacts {
+    @include sprites-sprite(contact);
+  }
+  &.movie {
+    @include size(246px, 51px);
+    @include sprites-sprite(movie);
+  }
+}
+
+//Sections
+#header {
+  .logo {
+    @include size(45px, 44px);
+    @include sprites-sprite(logo);
+  }
+  .top {
+    a {
+      height: 16px;
+      &.project {
+        width: 80px;
+        @include sprites-sprite(menu-project);
+      }
+      &.team {
+        width: 56px;
+        @include sprites-sprite(menu-team);
+      }
+      &.kitchen {
+        width: 83px;
+        @include sprites-sprite(menu-kitchen);
+      }
+      &.folio {
+        width: 61px;
+        @include sprites-sprite(menu-folio);
+      }
+      &.contacts {
+        width: 102px;
+        @include sprites-sprite(menu-contacts);
+      }
+    }
+  }
+}
+
+#project {
+  .text-bellow{
+    @include size(320px, 16px);
+    @include titles-sprite(3);
+}
+  .center {
+    .networks {
+      .facebook {
+        @include size(26px, 26px);
+        @include sprites-sprite(facebook);
+      }
+      .vk {
+        @include size(27px, 26px);
+        @include sprites-sprite(vk);
+      }
+      .instagram {
+        @include size(26px, 26px);
+        @include sprites-sprite(instagram);
+      }
+    }
+  }
+}
+
+#kitchen {
+
+  .title{
+    @include titles-sprite(1);
+    @include size(487px,39px);
+  }
+  &.kitchen {
+    @include sprites-sprite(kitchen);
+  }
+  .icon.cooking {
+    @include size(68px, 52px);
+    @include sprites-sprite(mixer);
+  }
+  .icon.ingredients {
+    @include size(44px, 52px);
+    @include sprites-sprite(libra);
+  }
+  .icon.recipe {
+    @include size(43px, 52px);
+    @include sprites-sprite(tablet);
+  }
+  .item__title:before {
+    content: '';
+    display: inline-block;
+    @include size(18px, 22px);
+    @include sprites-sprite(letter-z);
+
+  }
+}
+
+#portfolio {
+  &.portfolio {
+    @include sprites-sprite(portfolio);
+  }
+  .title{
+    @include titles-sprite(2);
+    @include size(487px,39px);
+  }
+}
+
+#team {
+  &.team {
+    @include sprites-sprite(team);
+  }
+  .slide {
+    .connection {
+      .icon {
+        @include square(25px);
+      }
+      .phone {
+        @include sprites-sprite(phone);
+      }
+      .mail {
+        @include sprites-sprite(mail);
+      }
+    }
+  }
+}
+
+#statistic {
+  .value {
+    height: 35px;
+    &.val-1 {
+      width: 160px;
+      @include sprites-sprite(val-1);
+    }
+    &.val-2 {
+      width: 76px;
+      @include sprites-sprite(val-2);
+    }
+    &.val-3 {
+      width: 49px;
+      @include sprites-sprite(val-3);
+    }
+    &.val-4 {
+      width: 103px;
+      @include sprites-sprite(val-4);
+    }
+  }
+}
+
+#client {
+  .logos {
+    .adidas {
+      @include size(95px, 48px);
+      @include clients-sprite(adidas);
+    }
+    .goodyear {
+      @include size(166px, 31px);
+      @include clients-sprite(goodyear);
+    }
+    .ef {
+      @include size(55px, 57px);
+      @include clients-sprite(ef);
+    }
+    .ricoh {
+      @include size(101px, 19px);
+      @include clients-sprite(ricoh);
+    }
+    .fm {
+      @include size(135px, 26px);
+      @include clients-sprite(fm);
+    }
+    .intel {
+      @include size(78px, 53px);
+      @include clients-sprite(intel);
+    }
+    .hansen {
+      @include size(155px, 45px);
+      @include clients-sprite(hansen);
+    }
+    .tcc {
+      @include size(91px, 29px);
+      @include clients-sprite(tcc);
+    }
+    .interscol {
+      @include size(215px, 25px);
+      @include clients-sprite(interscol);
+    }
+    .eastern {
+      @include size(251px, 29px);
+      @include clients-sprite(eastern);
+    }
+    .lukoil {
+      @include size(134px, 26px);
+      @include clients-sprite(lukoil);
+    }
+    .detecon {
+      @include size(146px, 32px);
+      @include clients-sprite(detecon);
+    }
+    .cat {
+      @include size(59px, 36px);
+      @include clients-sprite(cat);
+    }
+    .armacell {
+      @include size(169px, 27px);
+      @include clients-sprite(armacell);
+    }
+    .mtc {
+      @include size(106px, 38px);
+      @include clients-sprite(mtc);
+    }
+  }
+}
+
+#video {
+  .play-icon {
+    @include square(52px);
+    @include sprites-sprite(play);
+  }
+}
+
+#contacts {
+  .networks {
+    .facebook {
+      @include size(26px, 26px);
+      @include sprites-sprite(bfacebook);
+    }
+    .vk {
+      @include size(26px, 26px);
+      @include sprites-sprite(bvk);
+    }
+    .instagram {
+      @include size(26px, 26px);
+      @include sprites-sprite(binstagram);
+    }
+  }
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+  @import "mobile/*.png";
+  #header .logo{
+    @include size(32px, 32px);
+    @include mobile-sprite(logo_mobile);
+  }
+  #project .text-bellow{
+    @include size(224px, 44px);
+    @include mobile-sprite(4);
+  }
+  #kitchen .title{
+    @include mobile-sprite(5);
+    @include size(294px,65px);
+  }
+  #portfolio .title{
+    @include size(311px,65px);
+    @include mobile-sprite(6);
+
+  }
+}
+
+
+

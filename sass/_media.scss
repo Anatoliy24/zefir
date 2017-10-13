@@ -1,0 +1,349 @@
+@media screen and (max-width: 1400px) { //desktop_1400
+  html {
+    font-size: 20px;
+  }
+  .container {
+  }
+}
+
+@media screen and (max-width: 1200px) { //desktop_1200
+  html {
+    font-size: 20px;
+  }
+  .container {
+  }
+}
+
+@media screen and (max-width: 992px) { //desktop_992
+  html {
+    font-size: 20px;
+  }
+  #statistic {
+    .item {
+      min-width: 180px;
+      .inscription{
+        font-size: 22px;
+      }
+
+    }
+  }
+
+}
+@media screen and (max-width: $screen-sm-max) and (min-width: $screen-sm) {
+  #client{
+    .logos{
+      text-align-last: center;
+    }
+  }
+}
+@media screen and (max-width: 900px) { //desktop_900
+  html {
+    font-size: 18px;
+  }
+  #team {
+    padding-bottom: 60px;
+  }
+
+}
+
+@media screen and (max-width: 836px) { //desktop_836
+  html {
+    font-size: 18px;
+  }
+  .container {
+  }
+}
+
+@media screen and (max-width: 768px) { //laptop_768
+  html {
+    font-size: 16px;
+  }
+  #header {
+    .top {
+      display: none;
+    }
+    .wrap{
+      text-align: center;
+    }
+  }
+
+  .header__mobile-icon{
+    position: absolute;
+    top: 50%;
+    left: 22px;
+    margin-top: -7.5px;
+    width: 21px;
+    height: 15px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image:url("../img/hamburger.png");
+  }
+
+  .sidebar_mobile{
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: -1000px;
+    right: 0;
+    transition: 1s;
+    z-index: 10;
+  }
+  .sidebar_mobile_active{
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    transition: 1s;
+    overflow-y: auto;
+    overflow-x: visible;
+    max-height: 100vh;
+    //padding-top: 100px;
+    z-index: 99;
+    }
+  #banner {
+    margin-top: 45px;
+    .right {
+      display: none;
+    }
+    .half {
+      width: 100%;
+      .img{
+        position: relative;
+      }
+      .img-logo{
+        position: absolute;
+        top: 50%;
+        left: 0;
+        right: 0;
+        margin: -120px auto 0 auto;
+        background: url(../img/banner-title_mobile_1.png) 100% 0 no-repeat;
+        width: 421px;
+        height: 230px;
+
+      }
+    }
+
+  }
+  #project {
+    .right, .left {
+      text-align: center;
+    }
+    .right {
+      margin: 60px 0 40px 0;
+    }
+    .text-bellow {
+      margin-top: 30px;
+    }
+    .col-sm-6 {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+
+  }
+
+  #portfolio{
+    .item{
+      width:50%;
+    }
+  }
+  #kitchen {
+    table {
+      border-spacing: 4.5vh;
+      .item{
+        .item__title{
+          font-size: 4.5vh;
+        }
+      }
+    }
+  }
+  #client{
+    .logos{
+      max-width: 400px;
+      margin: 0 auto;
+    }
+  }
+
+  #statistic {
+    padding-bottom: 25px;
+    .item {
+      max-width: 208px;
+      margin: 0 auto 60px auto;
+
+    }
+  }
+
+}
+
+@media screen and (max-width: 560px) { //tablets_560
+  html {
+    font-size: 12px;
+  }
+  .container {
+  }
+}
+
+@media screen and (max-width: 480px) { //tablets_480
+  html {
+    font-size: 12px;
+  }
+
+  #header {
+    height: 45px;
+    .logo{
+      width: 32px;
+      height: 32px;
+    }
+
+    .wrap{
+      line-height: 45px;
+    }
+  }
+
+  #banner {
+    .img {
+      background: url(../img/zefir_foto_mobile.jpg) 100% 0 no-repeat;
+      height: 411px;
+      background-size: cover;
+      .img-logo{
+        display: none;
+      }
+    }
+  }
+
+
+
+  #project {
+
+    .text{
+      padding: 0 22px;
+      font-size: 16px;
+    }
+    .like {
+      background: url(../img/fon-like_mobile.jpg) 50% 0;
+      min-height: 425px;
+      background-size: cover;
+      .like__title {
+        background: none;
+        span {
+          display: block;
+          background-color: #000;
+          &:first-child {
+            width: 170px;
+            margin: 0 auto;
+          }
+          &:last-child {
+            width: 250px;
+          }
+        }
+      }
+    }
+  }
+
+  #kitchen {
+    padding-bottom: 0;
+    table {
+      .item {
+        display: block;
+        width: 0;
+        min-width: 284px;
+        margin: 0 auto 60px auto;
+      }
+    }
+
+  }
+
+  #portfolio{
+    .item{
+      width:100%;
+    }
+  }
+
+  #team {
+    .slide {
+      .item {
+        margin: 0px auto 20px auto;
+      }
+    }
+  }
+
+
+  #boutique{
+    background: url(../img/fon-boutique_mobile.jpg) 50% 0;
+    min-height: 390px;
+    background-size: cover;
+  }
+
+  #client{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 40px;
+    .logos{
+      .wrap{
+        //width: 49%;
+      }
+      .wrap:nth-child(odd){
+        //text-align: left;
+      }
+      .wrap:nth-child(even){
+        //text-align: right;
+      }
+
+    }
+
+
+
+  }
+
+  #video{
+    background: url(../img/video_mobile.jpg) 50% 0 no-repeat;
+    background-size: cover;
+  }
+
+  #contacts{
+    padding-left: 15px;
+    padding-right: 15px;
+    .with-btn{
+      padding-right: 15px;
+      .btn{
+        top: 70px;
+        width: 95px;
+        height: 37px;
+        font-size: 16px;
+        font-weight: bold;
+        background: #ffffff;
+      }
+    }
+    .caption{
+      margin-top: 16px;
+      font-size: 27px;
+    }
+  }
+  .networks.black + .line {
+    border: none;
+  }
+
+  .sidebar_mobile_active{
+      top: 0;
+
+  }
+
+
+}
+
+@media screen and (max-width: 320px) { //phones
+  html {
+    font-size: 12px;
+  }
+  .container {
+    width: auto;
+  }
+
+}
+
+@function rem($px) {
+  @return $px / 16px + 0rem;
+}
+
+
