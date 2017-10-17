@@ -1,5 +1,7 @@
 // Everyone styles
-
+body > *{
+  overflow: hidden;
+}
 .title-section {
   display: block;
   @include text-hide;
@@ -69,6 +71,7 @@ body > * {
 
 // Sections
 #header {
+  overflow: inherit;
   background: $dark-brown;
   height: $header-height;
 
@@ -453,6 +456,7 @@ body > * {
     -moz-text-align-last: justify;
     -ms-text-align-last: justify;
 
+
     .wrap {
       display: inline-block;
       height: 100px;
@@ -462,6 +466,10 @@ body > * {
       * {
         display: inline-block;
         vertical-align: middle;
+      }
+      img{
+        max-width: 100%;
+
       }
     }
   }

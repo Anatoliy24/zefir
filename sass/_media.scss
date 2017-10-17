@@ -158,12 +158,32 @@
       }
     }
   }
-  #client{
-    .logos{
+  #client {
+    .logos {
       max-width: 400px;
       margin: 0 auto;
+      .tr{
+        display: table;
+        width: 100%;
+
+      }
+      .img-responsive {
+        width: auto;
+      }
+      .wrap {
+        display: table-cell;
+        &:nth-child(2n+1){
+          text-align: left;
+        }
+        &:nth-child(2n){
+          text-align: right;
+          float: right;
+        }
+      }
+
     }
   }
+
 
   #statistic {
     padding-bottom: 25px;
@@ -227,15 +247,11 @@
       .like__title {
         background: none;
         span {
-          display: block;
+          display: inline-block;
+          padding: 0 15px;
           background-color: #000;
-          &:first-child {
-            width: 170px;
-            margin: 0 auto;
-          }
-          &:last-child {
-            width: 250px;
-          }
+          margin: 0 auto;
+
         }
       }
     }
@@ -332,7 +348,7 @@
 
 }
 
-@media screen and (max-width: 320px) { //phones
+@media screen and (max-width: 380px) { //phones
   html {
     font-size: 12px;
   }
@@ -340,7 +356,76 @@
     width: auto;
   }
 
+  #banner {
+    .img {
+      height: 320px;
+    }
+  }
+
+  .networks + .line {
+    width: 280px;
+  }
+
+  #project {
+    .like {
+      .text {
+        font-size: 24px;
+        line-height: 1.2;
+      }
+    }
+
+  }
+
+  #boutique {
+    min-height: 360px;
+    .i {
+      font-size: 22px;
+      line-height: 1.2;
+    }
+
+  }
+  #boutique .title.dark {
+    line-height: 35px;
+    height: 35px;
+    font-size: 22px;
+    margin: 15px 0;
+  }
+
+  #contacts {
+    .caption {
+      margin-top: 30px;
+    }
+    .contacts__address {
+      font-size: 25px;
+    }
+  }
+  #client {
+    padding-left: 0px;
+    padding-right: 0;
+    .logos {
+      .wrap {
+        img {
+          //max-width: 123px;
+          //height: auto;
+        }
+      }
+
+    }
+  }
+
 }
+
+
+
+@media screen and (max-width: 320px) {
+  #portfolio{
+    .title{
+      margin: 30px -10px 50px;
+    }
+  }
+
+}
+
 
 @function rem($px) {
   @return $px / 16px + 0rem;

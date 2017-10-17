@@ -2,298 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf95abcf-1bba-432b-9d70-607d738bae12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/11101f369bed5d223c43a4daf3db24f81cbaeb11/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_reset.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/12ec00c679a71339480fa52679c545b62f9f0990/_support.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/191ab998e8b1fc8530083d9e48876d0984366af1/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_alerts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_background-variant.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_border-radius.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_buttons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_center-block.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_clearfix.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_forms.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_gradients.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid-framework.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_grid.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_hide-text.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_image.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_labels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_list-group.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-divider.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_nav-vertical-align.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_opacity.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_pagination.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_panels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_progress-bar.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_reset-filter.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_reset-text.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_resize.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_responsive-visibility.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_size.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_tab-focus.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_table-row.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_text-emphasis.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_text-overflow.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/480dc36b5674c31979d8595c0bb8e66d0f4d40b8/_vendor-prefixes.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/528809250d1f64ef665d407c66dd681b7b602dac/_base.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/528809250d1f64ef665d407c66dd681b7b602dac/_sprite-img.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/53ed4c828fc51455130f6c8ee0160d619c5a8576/_bootstrap-compass.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/53ed4c828fc51455130f6c8ee0160d619c5a8576/_bootstrap.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/61a261296475c26d36ad188ca01219d9071bddc4/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6b704e9050dc44082e76bd7f3a050e0ec2d687ad/_filter.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6b704e9050dc44082e76bd7f3a050e0ec2d687ad/_font-face.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/_support.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/_sprites.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/K%058/My work/zefir/sass/_media.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/clients/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/mobile/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/sprites/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/titles/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7bed60aaeaade04498c65e73f0331e0ec5064c11/_sprites.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_alerts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_badges.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_breadcrumbs.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_button-groups.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_buttons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_carousel.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_close.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_code.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_component-animations.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_dropdowns.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_forms.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_glyphicons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_grid.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_input-groups.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_jumbotron.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_labels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_list-group.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_media.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_mixins.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_modals.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_navbar.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_navs.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_normalize.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_pager.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_pagination.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_panels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_popovers.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_print.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_progress-bars.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_responsive-embed.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_responsive-utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_scaffolding.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_tables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_thumbnails.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_tooltip.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_type.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/8bf7b5914086ad62aae299059ed1e1333c54ef3b/_wells.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/afb96d0c81dbae679a5a661a4c6da7d51bc94712/_replacement.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_bootstrap-variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_main.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_media.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_sprites.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/header_mobile.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/media.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/screen.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/sidebar_mobile.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c66778d4a594334324c9d73ca5fd137c36daad6e/%042.pngc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/ee0d8591c11a2f232afe217d4b388ec7b9d9b81f/_utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zefir_landing.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProMedium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProMedium.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProMedium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProMedium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProMedium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProRegular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProRegular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProRegular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProRegular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProRegular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemibold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemibold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemibold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemibold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemibold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemiboldIt.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemiboldIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemiboldIt.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemiboldIt.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemiboldIt.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/futurabookc.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/futurabookc.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/futurabookc.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/futurabookc.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/futurabookc.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-144_144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-152_152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-192_192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-36_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-48_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-72_72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrom-96_96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrome-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/mstile-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner-title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner-title_mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner-title_mobile_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients-sf57c56fb0f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/adidas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/afy-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/armacell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/cat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/detecon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/eastern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/ef.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/fm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/goodyear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/hansen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/intel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/interscol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/lukoil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/mtc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/ricoh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients/tcc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon-boutique.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon-boutique_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon-kitchen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon-like.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon-like_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hamburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hramcova.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/item1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/item1hover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/item1hover_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile-sd52ef407a0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/logo_mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/petrova.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/1_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/2_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/3_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/4_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/5_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/6_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spector.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites-s079d1516ae.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/bfacebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/bg-selectbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/binstagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/bvk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/contact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/friends.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/kitchen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/letter-z.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/libra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/menu-contacts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/menu-folio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/menu-kitchen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/menu-project.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/menu-team.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/movie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/pen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/people.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/portfolio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/project.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/statistic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/team.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/val-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/val-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/val-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/val-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprites/vk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles-s11fdee60c4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/titles/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zefir_foto.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zefir_foto_mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zefir.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/header_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sidebar_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProMedium.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProRegular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemibold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MinionProSemiboldIt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/futurabookc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/safari-pinned-tab.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-sprockets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_bootstrap-variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_sprites.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/ie.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/screen.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/zefir_backstage.mp4" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_main.scssc" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_main.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_media.scssc" afterPath="$PROJECT_DIR$/.sass-cache/b3de048f618034758b57d13187b25ae27d9ef8e0/_media.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/1_mobile.jpg" afterPath="$PROJECT_DIR$/img/portfolio/1_mobile.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/screen.css" afterPath="$PROJECT_DIR$/css/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_main.scss" afterPath="$PROJECT_DIR$/sass/_main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_media.scss" afterPath="$PROJECT_DIR$/sass/_media.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -306,14 +22,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.46401405">
+    <splitter split-orientation="horizontal" split-proportion="0.51550615">
       <split-first>
         <leaf>
-          <file leaf-file-name="_main.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sass/_main.scss">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="303">
-                  <caret line="444" column="20" lean-forward="false" selection-start-line="444" selection-start-column="20" selection-end-line="444" selection-end-column="20" />
+                <state relative-caret-position="150">
+                  <caret line="444" column="64" lean-forward="false" selection-start-line="444" selection-start-column="64" selection-end-line="444" selection-end-column="64" />
                   <folding />
                 </state>
               </provider>
@@ -323,11 +39,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="_media.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sass/_media.scss">
+          <file leaf-file-name="_main.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/sass/_main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+                <state relative-caret-position="198">
+                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -339,14 +55,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.test{</find>
-      <find>body</find>
-      <find>.pull-right</find>
-      <find>table</find>
-      <find>neste</find>
-      <find>#header</find>
       <find>#header .top</find>
-      <find>wrap</find>
       <find>container</find>
       <find>title-section statistic</find>
       <find>like__title bold dark</find>
@@ -367,8 +76,15 @@
       <find>#project</find>
       <find>#video</find>
       <find>slick</find>
-      <find>logos</find>
       <find>hidden-md</find>
+      <find>#project</find>
+      <find>wrap</find>
+      <find>logos</find>
+      <find>.visib</find>
+      <find>nth-child</find>
+      <find>client</find>
+      <find>.fake</find>
+      <find>fake</find>
     </findStrings>
     <replaceStrings>
       <replace>hidden-sm</replace>
@@ -388,9 +104,9 @@
         <option value="$PROJECT_DIR$/sass/header_mobile.scss" />
         <option value="$PROJECT_DIR$/sass/_sprites.scss" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/sass/_main.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/_media.scss" />
-        <option value="$PROJECT_DIR$/sass/_main.scss" />
       </list>
     </option>
   </component>
@@ -408,7 +124,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2102" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="980" />
     <option name="height" value="576" />
@@ -469,12 +185,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="zefir" type="b2602c69:ProjectViewProjectNode" />
               <item name="zefir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zefir" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zefir" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zefir" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zefir" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zefir" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zefir" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="clients" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zefir" type="b2602c69:ProjectViewProjectNode" />
@@ -495,7 +228,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -542,12 +274,14 @@
       <workItem from="1507735266252" duration="679000" />
       <workItem from="1507736388042" duration="17298000" />
       <workItem from="1507785384213" duration="17058000" />
-      <workItem from="1507910514245" duration="3917000" />
+      <workItem from="1507910514245" duration="5507000" />
+      <workItem from="1508162137797" duration="16417000" />
+      <workItem from="1508223342043" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66084000" />
+    <option name="totallyTimeSpent" value="84123000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -559,20 +293,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1406744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24255952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29233226" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29175946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22271715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22044729" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -590,16 +324,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/titles/5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/titles/6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/sprites/bfacebook.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -629,16 +353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-462">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507655968303" expanded="true" signature="924:1047" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="1225:1292" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="1479:1580" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="1758:1821" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="1999:2063" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="2307:2444" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="2634:2790" ph="{...}" />
-            <marker date="1507655968303" expanded="true" signature="3075:3158" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,13 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/screen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="9239" column="1" lean-forward="true" selection-start-line="9239" selection-start-column="1" selection-end-line="9239" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -841,20 +548,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_sprites.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="283" column="0" lean-forward="true" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -870,25 +563,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_media.scss">
+    <entry file="file://$PROJECT_DIR$/img/clients/tcc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/screen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="303">
+          <caret line="8580" column="24" lean-forward="true" selection-start-line="8580" selection-start-column="24" selection-end-line="8580" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="400" column="24" lean-forward="true" selection-start-line="400" selection-start-column="24" selection-end-line="400" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_sprites.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="279" column="3" lean-forward="true" selection-start-line="279" selection-start-column="3" selection-end-line="279" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="444" column="20" lean-forward="false" selection-start-line="444" selection-start-column="20" selection-end-line="444" selection-end-column="20" />
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="158" column="5" lean-forward="true" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
+          <folding>
+            <marker date="1508180913708" expanded="true" signature="38:109" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="62:88" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="102:107" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="149:220" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="173:199" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="213:218" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="259:426" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="282:308" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="322:423" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="334:419" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="378:412" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="501:568" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="512:566" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="524:562" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="606:698" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="629:655" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="664:695" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="737:807" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="760:786" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="800:805" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="846:3065" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="868:894" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="905:991" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="916:944" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="954:987" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1015:1268" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1287:1422" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1447:1674" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1685:2102" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1720:1748" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1759:2097" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1790:1827" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="1843:2091" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2114:2338" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2134:2167" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2179:2215" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2233:2264" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2279:2333" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2352:2391" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2363:2387" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2403:2536" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2415:2532" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2457:2526" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2479:2518" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2547:2940" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2560:2936" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2617:2672" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2695:2725" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2738:2929" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2794:2833" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2857:2921" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2956:3062" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="2994:3058" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3104:3174" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3127:3153" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3167:3172" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3213:5309" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3236:3262" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3274:3396" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3303:3349" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3360:3392" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3408:3599" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3419:3595" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3557:3589" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3614:4014" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3626:3679" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3690:4010" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3823:4004" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="3864:3996" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4027:4198" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4062:4193" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4076:4187" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4212:4252" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4223:4248" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4262:4344" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4275:4340" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4289:4334" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4358:4473" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4484:4759" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4571:4752" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4584:4615" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4642:4679" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4707:4745" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4769:4864" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4877:5209" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4941:5138" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="4980:5132" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5151:5205" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5236:5259" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5285:5305" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5348:6159" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5366:5392" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5406:5428" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5440:5483" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5451:5479" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5505:5528" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5541:5638" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5553:5633" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5567:5627" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5652:5743" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5684:5738" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5768:5855" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5869:5973" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5884:5915" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5939:5969" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="5984:6156" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6042:6152" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6056:6145" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6070:6137" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6200:6271" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6214:6268" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6226:6264" ph="{...}" />
+            <marker date="1508180913708" expanded="true" signature="6293:6325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="444" column="64" lean-forward="false" selection-start-line="444" selection-start-column="64" selection-end-line="444" selection-end-column="64" />
           <folding />
         </state>
       </provider>
